@@ -1,0 +1,10 @@
+name: 'GitHubEventPayloadAction'
+description: 'Print out the GitHub event payload'
+inputs:
+  print-payload:
+    description: 'String-Bool instructing whether to print or not'
+    required: false
+    default: 'false'
+runs:
+  using: 'node12'
+  main: 'index.js'
