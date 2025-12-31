@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/janakmshah/GitHubEventPayloadAction/issues"
   },
-  "homepage": "https://github.com/janakmshah/GitHubEventPayloadAction#readme",
-  "dependencies": {
-    "@actions/core": "^1.2.6",
-    "@actions/github": "^4.0.0"
-  }
+  "homepage": "https://github.com/janakmshah/GitHubEventPayloadAction#readme"
 }
